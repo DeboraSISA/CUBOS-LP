@@ -1,4 +1,9 @@
 //Operadores Matemáticos
 
-const resultado = 5 - 4
+let resultado = 5
+//resultado = resultado + 9
+//resultado += 5
+//resultado -= 5
+//resultado *= 5 
+resultado++ //adiciona 1
 console.log(resultado);
